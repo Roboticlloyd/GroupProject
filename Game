@@ -1,0 +1,24 @@
+#include <iostream>
+
+//Card Game
+
+Class CardGame {
+private:
+int numCards;
+int rows;
+int collumns;
+string Cards;
+
+public:
+
+};
+
+
+int main() {
+CardGames.Card;
+
+
+
+return 0;
+
+}
